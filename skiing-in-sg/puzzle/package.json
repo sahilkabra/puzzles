@@ -1,0 +1,26 @@
+{
+  "name": "redmart-puzzle",
+  "version": "0.0.0",
+  "description": "Solve the puzzle",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sahilkabra/redmart-puzzle"
+  },
+  "author": "sahil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilkabra/redmart-puzzle/issues"
+  },
+  "homepage": "https://github.com/sahilkabra/redmart-puzzle",
+  "dependencies": {
+    "morgan": "> 1.0.0"
+  },
+  "devDependencies": {
+  	"chai": "> 1.0.0",
+	"mocha": "> 1.0.0"
+  }
+}
