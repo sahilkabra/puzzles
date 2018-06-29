@@ -28,3 +28,7 @@ node_modules
 .lock-wscript
 
 bower_components
+build
+.idea
+.gradle
+tags*
