@@ -15,12 +15,6 @@ sourceSets {
             exclude '**/*Test.java'
         }
     }
-    test {
-        java {
-            srcDirs 'src/main/java'
-            include '**/*Test.java'
-        }
-    }
 }
 
 test {
